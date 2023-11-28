@@ -1,4 +1,4 @@
-![Uploading Breast-cancer-detection-and-classification-using-the-proposed-method.png…]()
+![Breast-cancer-detection-and-classification-using-the-proposed-method](https://github.com/TariqAi/Breast-Cancer-Classification-System-with-Neural-Network/assets/145915009/e609dd6d-1db8-4a94-a31e-3220a60e39a5)
 
 
 # Breast-Cancer-Classification-System-with-Neural-Network
